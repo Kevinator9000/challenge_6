@@ -47,4 +47,4 @@ In our final step we use the 'neighborhood_coordinates.csv' to create a points v
 Kevin Gross
 
 ## License
-MIT license
+This program is covered with the MIT license
